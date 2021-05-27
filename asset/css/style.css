@@ -168,6 +168,7 @@ table td {
   left: 0;
   opacity: 0;
   transition: .5s;
+  z-index: 500;
 }
 
 #wrap #header #top_nav ul li .submenu li {
