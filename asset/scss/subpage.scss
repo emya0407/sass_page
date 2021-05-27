@@ -57,6 +57,9 @@ body.subpage{ //최상위 우선순위 선언
         padding-top: 50px;
         border-top: 1px solid $borderColorPrimary;
       }
+      &.kakao_map{
+        margin-top: 20px;
+      }
       table{
         margin-top: 50px;
         & + .gbtn{

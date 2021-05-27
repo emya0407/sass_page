@@ -375,6 +375,10 @@ body.subpage main .container .inner + .inner {
   border-top: 1px solid #b8944d;
 }
 
+body.subpage main .container .inner.kakao_map {
+  margin-top: 20px;
+}
+
 body.subpage main .container .inner table {
   margin-top: 50px;
 }
